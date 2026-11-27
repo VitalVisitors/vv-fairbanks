@@ -1,0 +1,7 @@
+Sample birdsong on this kiosk. Each clip is a four-second excerpt, trimmed and levelled, from an iNaturalist recording.
+
+Canada Jay: Dan MacNeal, https://www.inaturalist.org/observations/119398062, CC BY 4.0
+Black-capped Chickadee: Richard Littauer, https://www.inaturalist.org/observations/55089671, CC BY 4.0
+Pine Grosbeak: Tero Linjama, https://www.inaturalist.org/observations/64544963, CC BY 4.0
+Boreal Chickadee: Peter Boyer, https://www.inaturalist.org/observations/324164900, CC BY 4.0
+Common Raven: s3bastianjones, https://www.inaturalist.org/observations/281637856, CC0
